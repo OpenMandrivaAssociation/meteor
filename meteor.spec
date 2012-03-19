@@ -13,6 +13,7 @@ BuildRequires:	gtk2-devel >= 2.24
 BuildRequires:	gtkmm2.4-devel
 BuildRequires:	sfml-graphics-devel
 BuildRequires:	X11-devel
+BuildRequires:	glew-devel
 BuildRequires:	nasm
 
 %description
