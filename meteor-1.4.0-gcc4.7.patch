@@ -1,0 +1,11 @@
+diff -urN meteor-1.4.0/mym/source/window.cpp meteor-1.4.0-patched/mym/source/window.cpp
+--- meteor-1.4.0/mym/source/window.cpp	2012-04-18 06:49:26.000000000 +1100
++++ meteor-1.4.0-patched/mym/source/window.cpp	2012-09-29 23:54:17.802439018 +1100
+@@ -21,6 +21,7 @@
+ #include <sys/syscall.h>
+ #include <sched.h>
+ #include <stdio.h>
++#include <unistd.h>
+ 
+ namespace mym
+ {
