@@ -1,6 +1,6 @@
 Name:		meteor
 Version:	1.4.0
-Release:	1
+Release:	2
 Summary:	A GameBoy Advance emulator
 License:	GPLv3+
 Group:		Emulators
