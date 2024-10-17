@@ -4,7 +4,7 @@ Release:	2
 Summary:	A GameBoy Advance emulator
 License:	GPLv3+
 Group:		Emulators
-URL:		http://sourceforge.net/projects/meteorgba/
+URL:		https://sourceforge.net/projects/meteorgba/
 Source0:	http://sourceforge.net/projects/meteorgba/files/%{name}-%{version}.tar.bz2
 Patch0:		meteor-1.4.0-gcc4.7.patch
 BuildRequires:	cmake
